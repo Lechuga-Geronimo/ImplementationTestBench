@@ -4,5 +4,7 @@
 
 ## Description. 
 
-Continuation of the projects SIP20201851 and SIP20202013, in which its construction, programming and debugging were concluded; obtaining as a final product a
-utility model.
+Final implementation of previous projects: 
+
+1.- One control system designed, available in: https://github.com/Lechuga-Geronimo/VibrationTestBench 
+2.- A mechanical vibration design, available in: https://github.com/Lechuga-Geronimo/MechanicalTestBench
