@@ -4,8 +4,11 @@
 
 ## Description. 
 
-Final implementation of previous projects: 
+Final implementation, and combination of previous projects: 
 
-1.- One control system designed, available in: https://github.com/Lechuga-Geronimo/VibrationTestBench 
+    1.- One control system designed, available in: https://github.com/Lechuga-Geronimo/VibrationTestBench 
 
-2.- A mechanical vibration design, available in: https://github.com/Lechuga-Geronimo/MechanicalTestBench
+    2.- A mechanical vibration design, available in: https://github.com/Lechuga-Geronimo/MechanicalTestBench
+
+Where the objective was to obtain an utility model of a vibration table as a product.
+
